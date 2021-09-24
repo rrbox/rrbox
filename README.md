@@ -1,2 +1,1 @@
-# ヒトの皮を被った箱
-A box impersonating a human
+# この箱はどうやら人間の皮をかぶっているようです
