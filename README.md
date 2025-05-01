@@ -1,6 +1,5 @@
 # 縁が赤い箱
 
-
 ⚠️この箱はどうやら人間の皮をかぶっているようです⚠️
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rrbox&column=7)
@@ -28,4 +27,3 @@
 
 - 2Dゲーム
 - 2Dゲーム制作ツール
-- 
