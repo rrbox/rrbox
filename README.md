@@ -1,14 +1,15 @@
-# rrbox
+# R.R.Box
 
-## 主要な開発言語
+## About me
+
+- Game library developer
+- 2D game developer
+- Mobile App engineer
+
+## Tech stack
 
 - Swift
-
-## ジャンル
-
-- 2Dゲーム開発
-
-## 主なプラットフォーム
-
-- macOS
-- iOS
+- Rust
+- SpriteKit
+- SDL
+- Entity Component System
